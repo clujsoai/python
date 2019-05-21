@@ -4,3 +4,7 @@ This repository contains a collection of Jupyter Notebook files which accompany 
 Article 1: Data types
 
 Article 2: Statements
+
+Article 3: Functions and Objects
+
+Article 4: List Comprehensions
