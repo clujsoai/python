@@ -12,3 +12,5 @@ https://medium.com/cluj-school-of-ai/python-primer-functions-and-objects-90902ac
 
 Article 4: List Comprehensions
 https://medium.com/@marius.safta/python-primer-list-comprehensions-f0abd2ca528a
+
+Article 5: Map, filter and Lambda functions
