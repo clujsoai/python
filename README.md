@@ -14,3 +14,5 @@ Article 4: List Comprehensions
 https://medium.com/@marius.safta/python-primer-list-comprehensions-f0abd2ca528a
 
 Article 5: Map, filter and Lambda functions: https://medium.com/cluj-school-of-ai/python-primer-map-reduce-and-lambda-functions-e5a6c1dbd3ee
+
+Article 6: Generators and Interators: https://medium.com/@marius.safta/python-primer-generators-and-iterators-38b15229ba40
